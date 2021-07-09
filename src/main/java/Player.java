@@ -1,3 +1,6 @@
+import candies.Candy;
+import neighborhoods.Neighborhood;
+
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

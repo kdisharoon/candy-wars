@@ -1,4 +1,4 @@
-
+package neighborhoods;
 
 
 public class Neighborhood {

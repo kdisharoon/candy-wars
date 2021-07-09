@@ -1,4 +1,4 @@
-
+package candies;
 
 
 public class StarlightMints extends Candy {

@@ -1,3 +1,12 @@
+import candies.Candy;
+import candies.Gumdrops;
+import candies.Jellybeans;
+import candies.StarlightMints;
+import neighborhoods.Lawrenceville;
+import neighborhoods.Neighborhood;
+import neighborhoods.Oakland;
+import neighborhoods.Southside;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -18,7 +27,7 @@ public class CandyApp {
 
     //displayWelcomeMenu only runs once, at the very start of the program
     private void displayWelcomeMenu() {
-        System.out.println("Welcome to Candy Wars!\n");
+        System.out.println("Welcome to candies.Candy Wars!\n");
 
         System.out.println("Put instructions here.\n");
     }

@@ -1,3 +1,5 @@
+package candies;
+
 import java.util.Random;
 
 public class Candy {
@@ -14,7 +16,7 @@ public class Candy {
 
 
     // Each time a subclass calls this constructor, it will pass in these high and low constraints.
-    // Methods in the Candy class will choose a random value between these ranges when called upon.
+    // Methods in the candies.Candy class will choose a random value between these ranges when called upon.
     public Candy(String name, int minPrice, int maxPrice, int specialHighMinPrice, int specialHighMaxPrice,
                                                           int specialLowMinPrice, int specialLowMaxPrice) {
         this.NAME = name;
