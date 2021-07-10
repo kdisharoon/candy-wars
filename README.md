@@ -8,3 +8,5 @@ The initial focus is on Java OOP, utilizing different classes for candies, neigh
 You may also encounter situations where you will gain or lose a certain amount of candy based on neighborhood factors.
 
 The eventual goal is to read in candy and neighborhood info from a database using custom API calls, rather than hard-coding that info. Web interface rather than command-line as well.
+
+Note: project initially created as part of another existing repository in BitBucket, so transferring it to Github does not include the version history from the first few edits.
